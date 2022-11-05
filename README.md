@@ -1,2 +1,4 @@
-# exemplo-compose
-Exemplo de utilização de docker-compose
+# Arquivos aula FIAP
+Exemplos de utilização de docker-compose
+- wordpress
+- nginx
